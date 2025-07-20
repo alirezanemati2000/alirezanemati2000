@@ -1,4 +1,4 @@
-# Hi there, I'm Alireza Nemati (EEZA) 👋
+# Hi there, I'm Alireza Nemati 👋
 
 ![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
